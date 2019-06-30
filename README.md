@@ -1,4 +1,4 @@
-# Building With Responsive Design
+# Using Bootstrap
 
 This repository contains a mockup of the [Newsweek](https://www.newsweek.com/) homepage. This version of the homepage contains the featured content from June 29, 2019.
 
